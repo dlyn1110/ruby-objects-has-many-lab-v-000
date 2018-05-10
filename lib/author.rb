@@ -18,8 +18,6 @@ class Author
       post.author = self
    end
 
-
-
    def posts
      @posts
    end
